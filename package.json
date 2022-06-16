@@ -1,0 +1,15 @@
+{
+  "name": "reactpatikaodev1",
+  "version": "1.0.0",
+  "description": "Patika React Ödevi",
+  "main": "index.js",
+  "type": "module",
+  "scripts": {
+    "start": "node index"
+  },
+  "author": "Erdem Karakaş <erdemkarakas26@gmail.com",
+  "license": "ISC",
+  "dependencies": {
+    "axios": "^0.27.2"
+  }
+}
